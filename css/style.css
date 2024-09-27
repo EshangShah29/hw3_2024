@@ -192,7 +192,7 @@ first div in the grid  and place it in the grid. */
   margin: 0 auto;
   max-height: 300px;
   align-self: center;
-  overflow-y: auto;
+  overflow-y: hidden;
 }
 
 /* Add your media query here */
