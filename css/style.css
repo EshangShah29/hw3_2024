@@ -196,8 +196,7 @@ first div in the grid  and place it in the grid. */
 }
 
 /* Add your media query here */
-/* For tablets */
-@media only screen and (min-width: 600px) {}	
+	
 	
 /* For desktop */
 @media only screen and (min-width: 800px) {
